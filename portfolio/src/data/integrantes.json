@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "nome": "Nicolas",
+        "rm": "555571",
+        "github": "https://github.com/nicolassouzasantos",
+        "imagem": "https://placehold.co/200"
+    },
+    {
+        "id": "2",
+        "nome": "Lucas",
+        "rm": "557951",
+        "github": "https://github.com/lucas",
+        "imagem": "https://placehold.co/200"
+    },
+    {
+        "id": "3",
+        "nome": "Lucy",
+        "rm": "557987",
+        "github": "https://github.com/luciayla24",
+        "imagem": "https://placehold.co/200"
+    },
+    {
+        "id": "4",
+        "nome": "Raphaela",
+        "rm": "554983",
+        "github": "https://github.com/raphatatto",
+        "imagem": "https://placehold.co/200"
+    }
+]
