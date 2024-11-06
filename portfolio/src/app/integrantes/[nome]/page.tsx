@@ -84,8 +84,7 @@ export default function IntegrantePage() {
           {checkpoints.map((checkpoint) => (
             <li key={checkpoint.id} className="p-4 bg-gray-800 rounded-md shadow">
               <h3 className="text-lg font-semibold">{checkpoint.disciplina}</h3>
-              <p className="text-green-200">Datas: {checkpoint.data}</p>
-              <p className="text-green-200">Comentario: {checkpoint.comentario}</p>
+              <p className="text-green-200">Notas: {checkpoint.media}</p>
               <p className="text-green-200">Datas: {checkpoint.data}</p>
             </li>
           ))}

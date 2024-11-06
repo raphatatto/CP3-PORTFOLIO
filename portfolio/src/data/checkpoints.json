@@ -76,7 +76,7 @@
     "integranteId": "2",
     "disciplina": "Front-end Design Engineering",
     "comentario": "O quarto comentario",
-    "media": "8",
+    "media": "CP1: 8.5, CP2: 7, CP3: -, CP4: 6.5, CP5: 9, CP6: -",
     "data": "CP1: 14/04/2024, CP2: 16/05/2024, CP3: 24/05/2024, CP4: 05/10/2024, CP5: 23/10/2024, CP6: -"
   },
   {
@@ -84,7 +84,7 @@
     "integranteId": "2",
     "disciplina": "Artificial intelligence & chatbot",
     "comentario": "O terceiro comentario",
-    "media": "7",
+    "media": "CP1: 9, CP2: 5.5, CP3: -, CP4: 8, CP5: 7, CP6: -",
     "data": "CP1: 09/04/2024, CP2: 09/05/2024, CP3: 25/05/2024, CP4: 07/10/2024, CP5: 25/10/2024, CP6: -"
   },
   {
@@ -92,7 +92,7 @@
     "integranteId": "2",
     "disciplina": "Software enginerring and business model",
     "comentario": "O quarto comentario",
-    "media": "9",
+    "media": "CP1: 7.5, CP2: 6, CP3: -, CP4: 8.5, CP5: 9, CP6: -",
     "data": "CP1: 15/04/2024, CP2: 20/05/2024, CP3: 23/05/2024, CP4: 04/10/2024, CP5: 25/10/2024, CP6: -"
   },
   {
@@ -148,7 +148,7 @@
     "integranteId": "4",
     "disciplina": "Domain driven design using Java",
     "comentario": "Otimo trabalho, parabéns!",
-    "media": "8",
+    "media": "CP1: 8, CP2: 7.5, CP3: -, CP4: 5, CP5: 9.5, CP6: -",
     "data": "CP1: 10/04/2024, CP2: 15/05/2024, CP3: 27/05/2024, CP4: 08/10/2024, CP5: 28/10/2024, CP6: -"
   },
   {
@@ -156,7 +156,7 @@
     "integranteId": "4",
     "disciplina": "Computacional thinking using Python",
     "comentario": "Muito bem!",
-    "media": "8",
+    "media": "CP1: 6.5, CP2: 8, CP3: -, CP4: 7, CP5: 9, CP6: -",
     "data": "CP1: 11/04/2024, CP2: 18/05/2024, CP3: 29/05/2024, CP4: 09/10/2024, CP5: 27/10/2024, CP6: -"
   },
   {
