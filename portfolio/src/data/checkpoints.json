@@ -164,7 +164,7 @@
     "integranteId": "4",
     "disciplina": "Building realacional Database",
     "comentario": "Melhorar na parte de relacionamentos com o Banco.",
-    "media": "8",
+    "media": "CP1: 7, CP2: 9, CP3: -, CP4: 6, CP5: 8, CP6: -",
     "data": "CP1: 12/04/2024, CP2: 17/05/2024, CP3: 26/05/2024, CP4: 06/10/2024, CP5: 24/10/2024, CP6: -"
   },
   {
@@ -172,7 +172,7 @@
     "integranteId": "4",
     "disciplina": "Front-end Design Engineering",
     "comentario": "Parabéns!",
-    "media": "7",
+    "media": "CP1: 9.5, CP2: 8, CP3: -, CP4: 7.5, CP5: 6, CP6: -",
     "data": "CP1: 14/04/2024, CP2: 16/05/2024, CP3: 24/05/2024, CP4: 05/10/2024, CP5: 23/10/2024, CP6: -"
   },
   {
@@ -180,7 +180,7 @@
     "integranteId": "4",
     "disciplina": "Artificial intelligence & chatbot",
     "comentario": "Está ótimo parabéns",
-    "media": "9",
+    "media": "CP1: 7, CP2: 6.5, CP3: -, CP4: 8, CP5: 9, CP6: -",
     "data": "CP1: 13/04/2024, CP2: 19/05/2024, CP3: 28/05/2024, CP4: 07/10/2024, CP5: 26/10/2024, CP6: -"
   },
   {
@@ -188,7 +188,7 @@
     "integranteId": "4",
     "disciplina": "Software enginerring and business model",
     "comentario": "Muito bem!",
-    "media": "7,8",
+    "media": "CP1: 8.5, CP2: 7, CP3: -, CP4: 6, CP5: 9, CP6: -",
     "data": "CP1: 15/04/2024, CP2: 20/05/2024, CP3: 23/05/2024, CP4: 04/10/2024, CP5: 25/10/2024, CP6: -"
   }
 ]
